@@ -1,12 +1,3 @@
----
-- name: Network System
-  sub: NW
-- name: Network and System Security
-  sub: SC
-- name: Artificial Intelligence
-  sub: AI
-- name: Computer-Human Interaction
-  sub: HI
 - title: AAAI
   description: AAAI Conference on Artificial Intelligence
   sub: AI
