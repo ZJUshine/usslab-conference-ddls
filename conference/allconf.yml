@@ -107,6 +107,15 @@
     timezone: UTC-12
     date: February 20 - February 27, 2024
     place: Vancouver, British Columbia, Canada
+  - year: 2025
+    id: aaai25
+    link: https://aaai.org/aaai-conference/save-the-date-aaai-25/
+    timeline:
+    - abstract_deadline: '2024-08-07 23:59:59'
+      deadline: '2024-08-15 23:59:59'
+    timezone: UTC-12
+    date: February 25 - March 4, 2025
+    place: PHILADELPHIA, PENNSYLVANIA, USA
 - title: ICLR
   description: International Conference on Learning Representations
   sub: AI
@@ -1045,8 +1054,8 @@
         - deadline: '2024-11-14 23:59:59'
           comment: 'Second Paper submission deadline'
       timezone: UTC-12
-      date: TBD
-      place: TBD
+      date: MAY 12-15, 2025
+      place: SAN FRANCISCO, CA
 - title: HotSec
   description: USENIX Workshop on Hot Topics in Security
   sub: SC
