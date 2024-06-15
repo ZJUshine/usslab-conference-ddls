@@ -152,6 +152,14 @@
     timezone: UTC-12
     date: May 07-11, 2024
     place: Vienna, Austria
+  - year: 2025
+    id: iclr25
+    link: https://iclr.cc
+    timeline:
+    - deadline: TBD
+    timezone: UTC+8
+    date: April 24-28, 2025
+    place: Singapore
 - title: CVPR
   description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
   sub: AI
@@ -287,9 +295,9 @@
       timeline:
         - abstract_deadline: '2024-04-30 23:59:59'
           deadline: '2024-05-07 23:59:59'
-        - abstract_deadline: '2029-09-12 23:59:59'
+        - abstract_deadline: '2024-09-12 23:59:59'
           deadline: '2024-09-19 23:59:59'
-      timezone: UTC-5
+      timezone: UTC-4
       date: April 28-30, 2025
       place: Philadelphia, PA, USA
 - title: MobiSys
@@ -593,6 +601,15 @@
       timezone: AoE
       date: May 11 - May 16, 2024
       place: Honolulu, Hawaii, USA
+    - year: 2025
+      id: chi25
+      link: https://chi2025.acm.org/
+      timeline:
+        - abstract_deadline: '2024-09-05 23:59:59'
+          deadline: '2024-09-12 23:59:59'
+      timezone: AoE
+      date: April 26 - May 1, 2025
+      place: Yokohama, Japan
 - title: USENIX Security
   description: USENIX Security Symposium
   sub: SC
