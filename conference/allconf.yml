@@ -745,6 +745,15 @@
     timezone: AoE
     date: June 24-27, 2024
     place: Brisbane, Australia
+  - year: 2025
+    id: dsn25
+    link: https://dsn2025.github.io/
+    timeline:
+    - abstract_deadline: '2024-11-27 23:59:59'
+      deadline: '2024-12-04 23:59:59'
+    timezone: AoE
+    date: June 23-26, 2025
+    place: Naples, Italy
 - title: CHES
   description: International Conference on Cryptographic Hardware and Embedded Systems
   sub: SC
