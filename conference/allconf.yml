@@ -1041,6 +1041,19 @@
     timezone: AoE
     date: TBD
     place: TBD
+  - year: 2025
+    id: conext25
+    link: https://conferences.sigcomm.org/co-next/2025/#!/home
+    timeline:
+    - abstract_deadline: '2024-11-28 23:59:59'
+      deadline: '2024-12-05 23:59:59'
+      comment: Winter submission
+    - abstract_deadline: TBD
+      deadline: TBD
+      comment: Summer submission
+    timezone: AoE
+    date: Dec 1-4, 2025
+    place: HKUST, Hong Kong
 - title: MobiCom
   description: ACM Annual International Conference On Mobile Computing And Networking
   sub: NW
@@ -1082,6 +1095,10 @@
     timeline:
     - abstract_deadline: '2024-08-29 23:59:59'
       deadline: '2024-09-05 23:59:59'
+      comment: Summer Deadlines
+    - abstract_deadline: '2025-03-11 23:59:59'
+      deadline: '2025-03-18 23:59:59'
+      comment: Winter Deadlines
     timezone: UTC-12
     date: November, 2025
     place: Hong Kong, China
@@ -1109,6 +1126,15 @@
     timezone: UTC-12
     date: June 19-21, 2023
     place: Orlando, FL, USA
+  - year: 2025
+    id: iwqos25
+    link: https://iwqos2025.ieee-iwqos.org/
+    timeline:
+    - abstract_deadline: '2025-02-09 23:59:59'
+      deadline: '2025-02-16 23:59:59'
+    timezone: AoE
+    date: July 02-04, 2025
+    place: Gold Coast, Australia
 - title: IMC
   description: ACM Internet Measurement Conference
   sub: NW
