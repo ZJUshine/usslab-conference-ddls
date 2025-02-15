@@ -1,422 +1,27 @@
-- title: IWQoS
-  description: IEEE/ACM International Symposium on Quality of Service
-  sub: NW
-  rank: C
-  dblp: iwqos
-  confs:
-  - year: 2022
-    id: iwqos22
-    link: https://iwqos2022.ieee-iwqos.org/
-    timeline:
-    - abstract_deadline: '2022-02-01 23:59:59'
-      deadline: '2022-02-07 23:59:59'
-    timezone: UTC-12
-    date: June 10-12, 2022
-    place: Virtual
-  - year: 2023
-    id: iwqos23
-    link: https://iwqos2023.ieee-iwqos.org/
-    timeline:
-    - abstract_deadline: '2023-01-29 23:59:59'
-      deadline: '2023-02-07 23:59:59'
-    timezone: UTC-12
-    date: June 19-21, 2023
-    place: Orlando, FL, USA
-  - year: 2025
-    id: iwqos25
-    link: https://iwqos2025.ieee-iwqos.org/
-    timeline:
-    - abstract_deadline: '2025-02-09 23:59:59'
-      deadline: '2025-02-16 23:59:59'
-    timezone: AoE
-    date: July 02-04, 2025
-    place: Gold Coast, Australia
-- title: MobiCom
-  description: ACM Annual International Conference On Mobile Computing And Networking
-  sub: NW
-  rank: A
-  dblp: mobicom
-  confs:
-  - year: 2022
-    id: mobicom22
-    link: https://www.sigmobile.org/mobicom/2022/
-    timeline:
-    - abstract_deadline: '2021-08-13 23:59:59'
-      deadline: '2021-08-20 23:59:59'
-    - abstract_deadline: '2022-03-18 23:59:59'
-      deadline: '2022-03-25 23:59:59'
-    timezone: UTC-7
-    date: TBD
-    place: TBD
-  - year: 2023
-    id: mobicom23
-    link: https://www.sigmobile.org/mobicom/2023/
-    timeline:
-    - abstract_deadline: '2023-03-10 23:59:59'
-      deadline: '2023-03-17 23:59:59'
-    timezone: UTC-7
-    date: Oct 2-6, 2023
-    place: Madrid, Spain
-  - year: 2024
-    id: mobicom24
-    link: https://www.sigmobile.org/mobicom/2024/
-    timeline:
-    - abstract_deadline: '2023-08-18 23:59:59'
-      deadline: '2023-08-25 23:59:59'
-    timezone: UTC-12
-    date: October, 2024
-    place: Washington, D.C., USA
-  - year: 2025
-    id: mobicom25
-    link: https://sigmobile.org/mobicom/2025/
-    timeline:
-    - abstract_deadline: '2024-08-29 23:59:59'
-      deadline: '2024-09-05 23:59:59'
-      comment: Summer Deadlines
-    - abstract_deadline: '2025-03-11 23:59:59'
-      deadline: '2025-03-18 23:59:59'
-      comment: Winter Deadlines
-    timezone: UTC-12
-    date: November, 2025
-    place: Hong Kong, China
-- title: CoNEXT
-  description: ACM International Conference on Emerging Networking Experiments and
-    Technologies
-  sub: NW
-  rank: B
-  dblp: conext
-  confs:
-  - year: 2024
-    id: conext24
-    link: https://conferences.sigcomm.org/co-next/2024/#!/home
-    timeline:
-    - abstract_deadline: '2023-11-27 23:59:59'
-      deadline: '2023-12-04 23:59:59'
-    - abstract_deadline: '2024-06-20 23:59:59'
-      deadline: '2024-06-27 23:59:59'
-    timezone: AoE
-    date: TBD
-    place: TBD
-  - year: 2025
-    id: conext25
-    link: https://conferences.sigcomm.org/co-next/2025/#!/home
-    timeline:
-    - abstract_deadline: '2024-11-28 23:59:59'
-      deadline: '2024-12-05 23:59:59'
-      comment: Winter submission
-    - abstract_deadline: TBD
-      deadline: TBD
-      comment: Summer submission
-    timezone: AoE
-    date: Dec 1-4, 2025
-    place: HKUST, Hong Kong
-- title: ICNP
-  description: IEEE International Conference on Network Protocols
-  sub: NW
-  rank: B
-  dblp: icnp
-  confs:
-  - year: 2022
-    id: icnp22
-    link: https://icnp22.cs.ucr.edu/index.html
-    timeline:
-    - abstract_deadline: '2022-05-19 20:00:00'
-      deadline: '2022-05-26 20:00:00'
-    timezone: UTC-4
-    date: October 30-November 2, 2022
-    place: Lexington, Kentucky, USA
-  - year: 2023
-    id: icnp23
-    link: https://icnp23.cs.ucr.edu/index.html
-    timeline:
-    - abstract_deadline: '2023-05-24 20:00:00'
-      deadline: '2023-05-31 20:00:00'
-    timezone: UTC-4
-    date: October 10-13, 2023
-    place: Reykjavik, Iceland
-  - year: 2024
-    id: icnp24
-    link: https://icnp24.cs.ucr.edu/index.html
-    timeline:
-    - abstract_deadline: '2024-05-17 23:59:59'
-      deadline: '2024-05-24 23:59:59'
-    timezone: AoE
-    date: October 28-31, 2024
-    place: Charleroi, Belgium
-  - year: 2025
-    id: icnp25
-    link: https://ieeeicnp2025.pages.dev/
-    timeline:
-    - abstract_deadline: '2025-05-09 23:59:59'
-      deadline: '2025-05-16 23:59:59'
-    timezone: AoE
-    date: September 22-25, 2025
-    place: Seoul, South Korea
-- title: MobiSys
-  description: ACM International Conference on Mobile Systems, Applications, and Services
-  sub: NW
-  rank: A
-  dblp: mobisys
-  confs:
-  - year: 2022
-    id: mobisys22
-    link: https://www.sigmobile.org/mobisys/2022/
-    timeline:
-    - abstract_deadline: '2021-12-13 23:59:59'
-      deadline: '2021-12-20 23:59:59'
-    timezone: UTC-12
-    date: TBD
-    place: TBD
-- title: IMC
-  description: ACM Internet Measurement Conference
-  sub: NW
-  rank: B
-  dblp: imc
-  confs:
-  - year: 2024
-    id: imc24
-    link: https://conferences.sigcomm.org/imc/2024/
-    timeline:
-    - abstract_deadline: '2024-05-08 23:59:59'
-      deadline: '2024-05-15 23:59:59'
-    timezone: AoE
-    date: Nov 4-6, 2024
-    place: Madrid, Spain
-  - year: 2025
-    id: imc25
-    link: https://conferences.sigcomm.org/imc/2025/
-    timeline:
-    - abstract_deadline: '2024-11-14 23:59:59'
-      deadline: '2024-11-21 23:59:59'
-      comment: Fall deadline
-    - abstract_deadline: '2025-05-08 23:59:59'
-      deadline: '2025-05-15 23:59:59'
-      comment: Spring deadline
-    timezone: AoE
-    date: Oct 28-31, 2025
-    place: Madison, Wisconsin, USA
-- title: IPSN
-  description: ACM/IEEE International Conference on Information Processing in Sensor
-    Networks
-  sub: NW
-  rank: B
-  dblp: ipsn
-  confs:
-  - year: 2022
-    id: ipsn22
-    link: https://ipsn.acm.org/2022/
-    timeline:
-    - abstract_deadline: '2021-10-22 23:59:59'
-      deadline: '2021-10-29 23:59:59'
-    timezone: UTC-12
-    date: May 4-6, 2022
-    place: Milan, Italy
-- title: NSDI
-  description: USENIX Symposium on Networked Systems Design and Implementation
-  sub: NW
-  rank: A
-  dblp: nsdi
-  confs:
-  - year: 2022
-    id: nsdi22
-    link: https://www.usenix.org/conference/nsdi22/
-    timeline:
-    - abstract_deadline: '2021-03-04 20:59:59'
-      deadline: '2021-03-10 20:59:59'
-    - abstract_deadline: '2021-09-09 20:59:59'
-      deadline: '2021-09-15 20:59:59'
-    timezone: UTC-8
-    date: April 4-6, 2022
-    place: RENTON, USA
-  - year: 2023
-    id: nsdi23
-    link: https://www.usenix.org/conference/nsdi23/
-    timeline:
-    - abstract_deadline: '2022-04-13 23:59:59'
-      deadline: '2022-04-20 23:59:59'
-    - abstract_deadline: '2022-09-13 23:59:59'
-      deadline: '2022-09-20 23:59:59'
-    timezone: UTC-5
-    date: April 17-19, 2023
-    place: BOSTON, USA
-  - year: 2024
-    id: nsdi24
-    link: https://www.usenix.org/conference/nsdi24/
-    timeline:
-    - abstract_deadline: '2023-04-27 20:59:59'
-      deadline: '2023-05-04 20:59:59'
-    - abstract_deadline: '2023-09-14 20:59:59'
-      deadline: '2023-09-21 20:59:59'
-    timezone: UTC-7
-    date: April 16-18, 2024
-    place: Santa Clara, CA, USA
-  - year: 2025
-    id: nsdi25
-    link: https://www.usenix.org/conference/nsdi25
-    timeline:
-    - abstract_deadline: '2024-04-30 23:59:59'
-      deadline: '2024-05-07 23:59:59'
-    - abstract_deadline: '2024-09-12 23:59:59'
-      deadline: '2024-09-19 23:59:59'
-    timezone: UTC-4
-    date: April 28-30, 2025
-    place: Philadelphia, PA, USA
-- title: INFOCOM
-  description: IEEE International Conference on Computer Communications
-  sub: NW
-  rank: B
-  dblp: infocom
-  confs:
-  - year: 2021
-    id: infocom21
-    link: https://infocom2021.ieee-infocom.org/
-    timeline:
-    - abstract_deadline: '2020-08-08 23:59:59'
-      deadline: '2020-08-15 23:59:59'
-    timezone: UTC-4
-    date: May 10-13, 2021
-    place: Virtual
-  - year: 2022
-    id: infocom22
-    link: https://infocom2022.ieee-infocom.org/
-    timeline:
-    - abstract_deadline: '2021-07-24 23:59:59'
-      deadline: '2021-07-31 23:59:59'
-    timezone: UTC-4
-    date: May 2-5, 2022
-    place: Virtual
-  - year: 2023
-    id: infocom23
-    link: https://infocom2023.ieee-infocom.org/
-    timeline:
-    - abstract_deadline: '2022-07-25 23:59:59'
-      deadline: '2022-08-01 23:59:59'
-    timezone: UTC-4
-    date: May 17-20, 2023
-    place: New York, USA
-  - year: 2024
-    id: infocom24
-    link: https://infocom2024.ieee-infocom.org/
-    timeline:
-    - abstract_deadline: '2023-07-24 23:59:59'
-      deadline: '2023-07-31 23:59:59'
-    timezone: AoE
-    date: May 20-23, 2024
-    place: Vancouver, Canada
-  - year: 2025
-    id: infocom25
-    link: https://infocom2025.ieee-infocom.org/
-    timeline:
-    - abstract_deadline: '2024-07-24 23:59:59'
-      deadline: '2024-07-31 23:59:59'
-    timezone: UTC-7
-    date: May 19-22, 2025
-    place: London, United Kindom
-- title: MobiHoc
-  description: International Symposium on Mobile Ad Hoc Networking and Computing
-  sub: NW
-  rank: B
-  dblp: mobihoc
-  confs:
-  - year: 2022
-    id: mobihoc22
-    link: https://www.sigmobile.org/mobihoc/2022/
-    timeline:
-    - abstract_deadline: '2022-02-25 23:59:59'
-      deadline: '2022-03-04 23:59:59'
-    timezone: UTC-12
-    date: October 17-22, 2022
-    place: Seoul, South Korea
-- title: SIGCOMM
-  description: ACM International Conference on Applications, Technologies, Architectures,
-    and Protocols for Computer Communication
-  sub: NW
-  rank: A
-  dblp: sigcomm
-  confs:
-  - year: 2021
-    id: sigcomm21
-    link: http://conferences.sigcomm.org/sigcomm/2021/
-    timeline:
-    - abstract_deadline: '2021-01-20 16:59:59'
-      deadline: '2021-01-27 16:59:59'
-    timezone: UTC-5
-    date: August 23-27, 2021
-    place: Virtual
-  - year: 2022
-    id: sigcomm22
-    link: https://conferences.sigcomm.org/sigcomm/2022/
-    timeline:
-    - abstract_deadline: '2022-01-26 23:59:59'
-      deadline: '2022-02-02 23:59:59'
-    timezone: UTC
-    date: August 22-26, 2022
-    place: Amsterdam, Netherlands
-  - year: 2023
-    id: sigcomm23
-    link: https://conferences.sigcomm.org/sigcomm/2023/
-    timeline:
-    - abstract_deadline: '2023-02-08 23:59:59'
-      deadline: '2023-02-15 23:59:59'
-    timezone: UTC
-    date: September 10-14, 2023
-    place: New York City, US
-  - year: 2024
-    id: sigcomm24
-    link: https://conferences.sigcomm.org/sigcomm/2024/
-    timeline:
-    - abstract_deadline: '2024-01-26 23:59:59'
-      deadline: '2024-02-02 23:59:59'
-    timezone: UTC
-    date: August 4 - 8, 2024
-    place: Sydney, Australia
-  - year: 2025
-    id: sigcomm25
-    link: https://conferences.sigcomm.org/sigcomm/2025/
-    timeline:
-    - abstract_deadline: '2025-01-24 23:59:59'
-      deadline: '2025-01-31 23:59:59'
-    timezone: UTC
-    date: September 8-11, 2025
-    place: Coimbra, Portugal
-- title: CSCW
-  description: ACM Conference on Computer Supported Cooperative Work and Social Computing
+- title: CHI
+  description: ACM Conference on Human Factors in Computing Systems
   sub: HI
   rank: A
-  dblp: cscw
+  dblp: chi
   confs:
-  - year: 2021
-    id: cscw21
-    link: https://cscw.acm.org/2021/
-    timeline:
-    - deadline: '2021-04-15 23:59:59'
-    timezone: AoE
-    date: TBD
-    place: Virtual
-  - year: 2022
-    id: cscw22
-    link: https://cscw.acm.org/2022/
-    timeline:
-    - deadline: '2022-01-15 23:59:59'
-    timezone: AoE
-    date: January 1, 2022
-    place: Taiwan
-  - year: 2023
-    id: cscw23
-    link: https://cscw.acm.org/2023/
-    timeline:
-    - deadline: '2023-06-01 23:59:59'
-    timezone: AoE
-    date: October 14-18, 2023
-    place: Minneapolis, MN, USA
   - year: 2024
-    id: cscw24
-    link: https://cscw.acm.org/2024/
+    id: chi24
+    link: http://chi2024.acm.org/
     timeline:
-    - deadline: '2024-01-16 23:59:59'
+    - abstract_deadline: '2023-09-07 23:59:59'
+      deadline: '2023-09-14 23:59:59'
     timezone: AoE
-    date: November 9-13, 2024
-    place: "San Jos\xE9, Costa Rica"
+    date: May 11 - May 16, 2024
+    place: Honolulu, Hawaii, USA
+  - year: 2025
+    id: chi25
+    link: https://chi2025.acm.org/
+    timeline:
+    - abstract_deadline: '2024-09-05 23:59:59'
+      deadline: '2024-09-12 23:59:59'
+    timezone: AoE
+    date: April 26 - May 1, 2025
+    place: Yokohama, Japan
 - title: UbiComp/ISWC
   description: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   sub: HI
@@ -468,30 +73,6 @@
     timezone: UTC-5
     date: October 8-12, 2023
     place: "Canc\xFAn, Mexico"
-- title: CHI
-  description: ACM Conference on Human Factors in Computing Systems
-  sub: HI
-  rank: A
-  dblp: chi
-  confs:
-  - year: 2024
-    id: chi24
-    link: http://chi2024.acm.org/
-    timeline:
-    - abstract_deadline: '2023-09-07 23:59:59'
-      deadline: '2023-09-14 23:59:59'
-    timezone: AoE
-    date: May 11 - May 16, 2024
-    place: Honolulu, Hawaii, USA
-  - year: 2025
-    id: chi25
-    link: https://chi2025.acm.org/
-    timeline:
-    - abstract_deadline: '2024-09-05 23:59:59'
-      deadline: '2024-09-12 23:59:59'
-    timezone: AoE
-    date: April 26 - May 1, 2025
-    place: Yokohama, Japan
 - title: UIST
   description: ACM Symposium on User Interface Software and Technology
   sub: HI
@@ -520,6 +101,44 @@
     timezone: UTC-8
     date: Sep 28 - Oct 1, 2025
     place: Busan, Korea
+- title: CSCW
+  description: ACM Conference on Computer Supported Cooperative Work and Social Computing
+  sub: HI
+  rank: A
+  dblp: cscw
+  confs:
+  - year: 2021
+    id: cscw21
+    link: https://cscw.acm.org/2021/
+    timeline:
+    - deadline: '2021-04-15 23:59:59'
+    timezone: AoE
+    date: TBD
+    place: Virtual
+  - year: 2022
+    id: cscw22
+    link: https://cscw.acm.org/2022/
+    timeline:
+    - deadline: '2022-01-15 23:59:59'
+    timezone: AoE
+    date: January 1, 2022
+    place: Taiwan
+  - year: 2023
+    id: cscw23
+    link: https://cscw.acm.org/2023/
+    timeline:
+    - deadline: '2023-06-01 23:59:59'
+    timezone: AoE
+    date: October 14-18, 2023
+    place: Minneapolis, MN, USA
+  - year: 2024
+    id: cscw24
+    link: https://cscw.acm.org/2024/
+    timeline:
+    - deadline: '2024-01-16 23:59:59'
+    timezone: AoE
+    date: November 9-13, 2024
+    place: "San Jos\xE9, Costa Rica"
 - title: USENIX Security
   description: USENIX Security Symposium
   sub: SC
@@ -576,28 +195,6 @@
     timezone: UTC-12
     date: August 13-15, 2025
     place: SEATTLE, WA, USA
-- title: EuroS&P
-  description: IEEE European Symposium on Security and Privacy
-  sub: SC
-  rank: C
-  dblp: eurosp
-  confs:
-  - year: 2024
-    id: eurosp24
-    link: https://eurosp2024.ieee-security.org/
-    timeline:
-    - deadline: '2023-11-02 23:59:59'
-    timezone: UTC-12
-    date: July 8-12, 2024
-    place: Vienna, Austria
-  - year: 2025
-    id: eurosp25
-    link: https://eurosp2025.ieee-security.org/
-    timeline:
-    - deadline: '2024-10-24 23:59:59'
-    timezone: UTC-12
-    date: June 30-July 4, 2025
-    place: Venice, Italy
 - title: CHES
   description: International Conference on Cryptographic Hardware and Embedded Systems
   sub: SC
@@ -664,6 +261,106 @@
     timezone: AoE
     date: September 14-18, 2025
     place: Kuala Lumpur, Malaysia
+- title: NSPW
+  description: New Security Paradigms Workshop
+  sub: SC
+  rank: C
+  dblp: nspw
+  confs:
+  - year: 2021
+    id: nspw21
+    link: https://www.nspw.org/2021
+    timeline:
+    - deadline: '2021-06-04 23:59:59'
+      comment: Submission deadline
+    - deadline: '2021-11-24 23:59:59'
+      comment: Final version
+    timezone: UTC-11
+    date: October 25-28, 2021
+    place: Virtual
+  - year: 2024
+    id: nspw24
+    link: https://www.nspw.org/2024/cfp
+    timeline:
+    - deadline: '2024-04-12 23:59:00'
+    timezone: UTC-11
+    date: September 16-18, 2024
+    place: Bedford, PA USA
+- title: WiSec
+  description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
+  sub: SC
+  rank: B
+  dblp: wisec
+  confs:
+  - year: 2021
+    id: wisec21
+    link: https://sites.nyuad.nyu.edu/wisec21/
+    timeline:
+    - deadline: '2021-03-25 23:59:59'
+      comment: Paper Submission Deadline
+    timezone: AoE
+    date: June 28 - July 2, 2021
+    place: Abu Dhabi, UAE
+  - year: 2024
+    id: wisec24
+    link: https://wisec2024.kaist.ac.kr/
+    timeline:
+    - deadline: '2024-02-08 23:59:59'
+      comment: Paper Submission Deadline
+    timezone: AoE
+    date: May 27 - 30, 2024
+    place: Seoul, Korea
+- title: PETS
+  description: Privacy Enhancing Technologies Symposium
+  sub: SC
+  rank: C
+  dblp: pet
+  confs:
+  - year: 2022
+    id: pets22
+    link: https://petsymposium.org/cfp22.php
+    timeline:
+    - deadline: '2021-05-31 23:59:59'
+      comment: Issue 1 Paper Submission Deadline
+    - deadline: '2021-08-31 23:59:59'
+      comment: Issue 2 Paper Submission Deadline
+    - deadline: '2021-11-30 23:59:59'
+      comment: Issue 3 Paper Submission Deadline
+    - deadline: '2022-02-28 23:59:59'
+      comment: Issue 4 Paper Submission Deadline
+    timezone: AoE
+    date: July 18-23, 2022
+    place: Sydney, Australia
+  - year: 2024
+    id: pets24
+    link: https://www.petsymposium.org/cfp24.php
+    timeline:
+    - deadline: '2023-05-31 23:59:59'
+      comment: Issue 1 Paper Submission Deadline
+    - deadline: '2023-08-31 23:59:59'
+      comment: Issue 2 Paper Submission Deadline
+    - deadline: '2023-11-30 23:59:59'
+      comment: Issue 3 Paper Submission Deadline
+    - deadline: '2024-02-29 23:59:59'
+      comment: Issue 4 Paper Submission Deadline
+    timezone: AoE
+    date: July 15-20, 2024
+    place: Bristol, UK and Online
+  - year: 2025
+    id: pets25
+    link: https://petsymposium.org/cfp25.php
+    timeline:
+    - deadline: '2024-05-31 23:59:59'
+      comment: Issue 1 Paper Submission Deadline
+    - deadline: '2024-08-31 23:59:59'
+      comment: Issue 2 Paper Submission Deadline
+    - deadline: '2024-11-30 23:59:59'
+      comment: Issue 3 Paper Submission Deadline
+    - deadline: '2025-02-28 23:59:59'
+      comment: Issue 4 Paper Submission Deadline
+    timezone: AoE
+    date: July 14-19, 2025
+    place: Washington, DC and Online
 - title: TrustCom
   description: IEEE International Conference on Trust, Security and Privacy in Computing
     and Communications
@@ -723,186 +420,17 @@
     timezone: AoE
     date: AUGUST 11-13, 2024
     place: Philadelphia, USA
-- title: ACSAC
-  description: Annual Computer Security Applications Conference
-  sub: SC
-  rank: B
-  dblp: acsac
-  confs:
-  - year: 2021
-    id: acsac21
-    link: https://www.acsac.org/
+  - year: 2025
+    id: soups25
+    link: https://www.usenix.org/conference/soups2025
     timeline:
-    - deadline: '2021-09-14 23:59:59'
-    timezone: UTC-12
-    date: December 6-10, 2021
-    place: Online
-  - year: 2023
-    id: acsac23
-    link: https://www.acsac.org/
-    timeline:
-    - deadline: '2023-05-26 23:59:59'
-    timezone: UTC-12
-    date: December 4-8, 2023
-    place: Austin, Texas, USA
-  - year: 2024
-    id: acsac24
-    link: https://www.acsac.org/
-    timeline:
-    - deadline: '2024-05-28 23:59:59'
-    timezone: UTC-12
-    date: December 9-13, 2024
-    place: Waikiki, Hawaii, USA
-- title: NSPW
-  description: New Security Paradigms Workshop
-  sub: SC
-  rank: C
-  dblp: nspw
-  confs:
-  - year: 2021
-    id: nspw21
-    link: https://www.nspw.org/2021
-    timeline:
-    - deadline: '2021-06-04 23:59:59'
-      comment: Submission deadline
-    - deadline: '2021-11-24 23:59:59'
-      comment: Final version
-    timezone: UTC-11
-    date: October 25-28, 2021
-    place: Virtual
-  - year: 2024
-    id: nspw24
-    link: https://www.nspw.org/2024/cfp
-    timeline:
-    - deadline: '2024-04-12 23:59:00'
-    timezone: UTC-11
-    date: September 16-18, 2024
-    place: Bedford, PA USA
-- title: WiSec
-  description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
-  sub: SC
-  rank: B
-  dblp: wisec
-  confs:
-  - year: 2021
-    id: wisec21
-    link: https://sites.nyuad.nyu.edu/wisec21/
-    timeline:
-    - deadline: '2021-03-25 23:59:59'
+    - deadline: '2025-02-06 23:59:59'
+      comment: Mandatory Paper Registration Deadline
+    - deadline: '2025-02-13 23:59:59'
       comment: Paper Submission Deadline
     timezone: AoE
-    date: June 28 - July 2, 2021
-    place: Abu Dhabi, UAE
-  - year: 2024
-    id: wisec24
-    link: https://wisec2024.kaist.ac.kr/
-    timeline:
-    - deadline: '2024-02-08 23:59:59'
-      comment: Paper Submission Deadline
-    timezone: AoE
-    date: May 27 - 30, 2024
-    place: Seoul, Korea
-- title: NDSS
-  description: Network and Distributed System Security (NDSS) Symposium
-  sub: SC
-  rank: A
-  dblp: ndss
-  confs:
-  - year: 2022
-    id: ndss22
-    link: https://www.ndss-symposium.org/ndss2022/
-    timeline:
-    - deadline: '2021-05-21 23:59:59'
-      comment: spring
-    - deadline: '2021-07-23 23:59:59'
-      comment: fall
-    timezone: UTC-12
-    date: February 27 - March 3, 2022
-    place: San Diego, California
-  - year: 2023
-    id: ndss23
-    link: https://www.ndss-symposium.org/ndss2023/
-    timeline:
-    - deadline: '2022-05-13 23:59:59'
-      comment: Summer
-    - deadline: '2022-07-29 23:59:59'
-      comment: Fall
-    timezone: UTC-12
-    date: TBD
-    place: San Diego, California
-  - year: 2024
-    id: ndss24
-    link: https://www.ndss-symposium.org/ndss2024/
-    timeline:
-    - deadline: '2023-04-19 23:59:59'
-      comment: Summer
-    - deadline: '2023-06-28 23:59:59'
-      comment: Fall
-    timezone: UTC-12
-    date: February 26 - March 1, 2024
-    place: San Diego, California
-  - year: 2025
-    id: ndss25
-    link: https://www.ndss-symposium.org/ndss2025/
-    timeline:
-    - deadline: '2024-04-17 23:59:59'
-      comment: Summer
-    - deadline: '2024-07-10 23:59:59'
-      comment: Fall
-    timezone: UTC-12
-    date: February 23 - February 28, 2025
-    place: San Diego, California
-- title: PETS
-  description: Privacy Enhancing Technologies Symposium
-  sub: SC
-  rank: C
-  dblp: pet
-  confs:
-  - year: 2022
-    id: pets22
-    link: https://petsymposium.org/cfp22.php
-    timeline:
-    - deadline: '2021-05-31 23:59:59'
-      comment: Issue 1 Paper Submission Deadline
-    - deadline: '2021-08-31 23:59:59'
-      comment: Issue 2 Paper Submission Deadline
-    - deadline: '2021-11-30 23:59:59'
-      comment: Issue 3 Paper Submission Deadline
-    - deadline: '2022-02-28 23:59:59'
-      comment: Issue 4 Paper Submission Deadline
-    timezone: AoE
-    date: July 18-23, 2022
-    place: Sydney, Australia
-  - year: 2024
-    id: pets24
-    link: https://www.petsymposium.org/cfp24.php
-    timeline:
-    - deadline: '2023-05-31 23:59:59'
-      comment: Issue 1 Paper Submission Deadline
-    - deadline: '2023-08-31 23:59:59'
-      comment: Issue 2 Paper Submission Deadline
-    - deadline: '2023-11-30 23:59:59'
-      comment: Issue 3 Paper Submission Deadline
-    - deadline: '2024-02-29 23:59:59'
-      comment: Issue 4 Paper Submission Deadline
-    timezone: AoE
-    date: July 15-20, 2024
-    place: Bristol, UK and Online
-  - year: 2025
-    id: pets25
-    link: https://petsymposium.org/cfp25.php
-    timeline:
-    - deadline: '2024-05-31 23:59:59'
-      comment: Issue 1 Paper Submission Deadline
-    - deadline: '2024-08-31 23:59:59'
-      comment: Issue 2 Paper Submission Deadline
-    - deadline: '2024-11-30 23:59:59'
-      comment: Issue 3 Paper Submission Deadline
-    - deadline: '2025-02-28 23:59:59'
-      comment: Issue 4 Paper Submission Deadline
-    timezone: AoE
-    date: July 14-19, 2025
-    place: Washington, DC and Online
+    date: August 10-12, 2025
+    place: Seattle, WA, USA
 - title: DSN
   description: International Conference on Dependable Systems and Networks
   sub: SC
@@ -940,6 +468,28 @@
     timezone: AoE
     date: June 23-26, 2025
     place: Naples, Italy
+- title: EuroS&P
+  description: IEEE European Symposium on Security and Privacy
+  sub: SC
+  rank: C
+  dblp: eurosp
+  confs:
+  - year: 2024
+    id: eurosp24
+    link: https://eurosp2024.ieee-security.org/
+    timeline:
+    - deadline: '2023-11-02 23:59:59'
+    timezone: UTC-12
+    date: July 8-12, 2024
+    place: Vienna, Austria
+  - year: 2025
+    id: eurosp25
+    link: https://eurosp2025.ieee-security.org/
+    timeline:
+    - deadline: '2024-10-24 23:59:59'
+    timezone: UTC-12
+    date: June 30-July 4, 2025
+    place: Venice, Italy
 - title: RAID
   description: International Symposium on Recent Advances in Intrusion Detection
   sub: SC
@@ -971,127 +521,6 @@
     timezone: AoE
     date: September 30 - October 2, 2024
     place: Palazzo della Salute, Padua, Italy
-- title: AsiaCCS
-  description: Asia Conference on Computer and Communications Security
-  sub: SC
-  rank: B
-  dblp: ccs
-  confs:
-  - year: 2022
-    id: asiaccs22
-    link: https://asiaccs2022.conferenceservice.jp/
-    timeline:
-    - deadline: '2021-07-30 23:59:59'
-      comment: 1st round Deadline
-    - deadline: '2021-11-19 23:59:59'
-      comment: 2nd round Deadline
-    timezone: AoE
-    date: May 30-June 3, 2022
-    place: Nagasaki, Japan
-  - year: 2024
-    id: asiaccs24
-    link: https://asiaccs2024.sutd.edu.sg/
-    timeline:
-    - deadline: '2023-08-21 23:59:59'
-      comment: 1st round Deadline
-    - deadline: '2023-12-07 23:59:59'
-      comment: 2nd round Deadline
-    timezone: AoE
-    date: July 1-5, 2024
-    place: Singapore
-  - year: 2025
-    id: asiaccs25
-    link: https://asiaccs2025.hust.edu.vn/
-    timeline:
-    - deadline: '2024-09-20 23:59:59'
-      comment: 1st round Deadline
-    - deadline: '2025-01-20 23:59:59'
-      comment: 2nd round Deadline
-    timezone: AoE
-    date: August 25-29, 2025
-    place: Hanoi, Vietnam
-- title: ESORICS
-  description: European Symposium on Research in Computer Security
-  sub: SC
-  rank: B
-  dblp: esorics
-  confs:
-  - year: 2022
-    id: esorics22
-    link: https://esorics2022.compute.dtu.dk/
-    timeline:
-    - deadline: '2022-01-31 23:59:59'
-      comment: Winter Cycle Title and Abstract
-    - deadline: '2022-01-31 23:59:59'
-      comment: Winter Cycle Full Paper Submission
-    - deadline: '2022-05-15 23:59:59'
-      comment: Spring Cycle Title and Abstract
-    - deadline: '2022-05-22 23:59:59'
-      comment: Spring Cycle Full Paper Submission
-    timezone: UTC+1
-    date: September 26-30, 2022
-    place: Copenhagen, Denmark
-  - year: 2024
-    id: esorics24
-    link: https://esorics2024.org/
-    timeline:
-    - deadline: '2024-01-08 23:59:59'
-      comment: First Submission deadline
-    - deadline: '2024-04-19 23:59:59'
-      comment: Second Submission deadline
-    timezone: AoE
-    date: September 16-20, 2024
-    place: Bydgoszcz, Poland
-  - year: 2025
-    id: esorics25
-    link: https://esorics2025.sciencesconf.org/
-    timeline:
-    - deadline: '2025-01-10 23:59:59'
-      comment: First Submission deadline
-    - deadline: '2025-04-22 23:59:59'
-      comment: Second Submission deadline
-    timezone: AoE
-    date: September 22-26, 2025
-    place: Toulouse, France
-- title: ACNS
-  description: Applied Cryptography and Network Security
-  sub: SC
-  rank: C
-  dblp: acns
-  confs:
-  - year: 2022
-    id: acns22
-    link: https://sites.google.com/di.uniroma1.it/acns2022
-    timeline:
-    - deadline: '2021-09-03 23:59:59'
-      comment: First submission deadline
-    - deadline: '2022-01-14 23:59:59'
-      comment: Second submission deadline
-    timezone: AoE
-    date: June 20-23, 2022
-    place: Rome, Italy
-  - year: 2024
-    id: acns24
-    link: https://wp.nyu.edu/acns2024/
-    timeline:
-    - deadline: '2023-07-20 23:59:59'
-      comment: First submission deadline
-    - deadline: '2023-10-20 23:59:59'
-      comment: Second submission deadline
-    timezone: AoE
-    date: March 5-8, 2024
-    place: Abu Dhabi, UAE
-  - year: 2025
-    id: acns25
-    link: http://acns2025.fordaysec.de/
-    timeline:
-    - deadline: '2024-09-09 23:59:59'
-      comment: First submission deadline
-    - deadline: '2025-01-13 23:59:59'
-      comment: Second submission deadline
-    timezone: AoE
-    date: June 23-26, 2025
-    place: Munich, Germany
 - title: S&P
   description: IEEE Symposium on Security and Privacy
   sub: SC
@@ -1159,6 +588,88 @@
     timezone: UTC-12
     date: MAY 18-21, 2026
     place: SAN FRANCISCO, CA
+- title: ACNS
+  description: Applied Cryptography and Network Security
+  sub: SC
+  rank: C
+  dblp: acns
+  confs:
+  - year: 2022
+    id: acns22
+    link: https://sites.google.com/di.uniroma1.it/acns2022
+    timeline:
+    - deadline: '2021-09-03 23:59:59'
+      comment: First submission deadline
+    - deadline: '2022-01-14 23:59:59'
+      comment: Second submission deadline
+    timezone: AoE
+    date: June 20-23, 2022
+    place: Rome, Italy
+  - year: 2024
+    id: acns24
+    link: https://wp.nyu.edu/acns2024/
+    timeline:
+    - deadline: '2023-07-20 23:59:59'
+      comment: First submission deadline
+    - deadline: '2023-10-20 23:59:59'
+      comment: Second submission deadline
+    timezone: AoE
+    date: March 5-8, 2024
+    place: Abu Dhabi, UAE
+  - year: 2025
+    id: acns25
+    link: http://acns2025.fordaysec.de/
+    timeline:
+    - deadline: '2024-09-09 23:59:59'
+      comment: First submission deadline
+    - deadline: '2025-01-13 23:59:59'
+      comment: Second submission deadline
+    timezone: AoE
+    date: June 23-26, 2025
+    place: Munich, Germany
+- title: ESORICS
+  description: European Symposium on Research in Computer Security
+  sub: SC
+  rank: B
+  dblp: esorics
+  confs:
+  - year: 2022
+    id: esorics22
+    link: https://esorics2022.compute.dtu.dk/
+    timeline:
+    - deadline: '2022-01-31 23:59:59'
+      comment: Winter Cycle Title and Abstract
+    - deadline: '2022-01-31 23:59:59'
+      comment: Winter Cycle Full Paper Submission
+    - deadline: '2022-05-15 23:59:59'
+      comment: Spring Cycle Title and Abstract
+    - deadline: '2022-05-22 23:59:59'
+      comment: Spring Cycle Full Paper Submission
+    timezone: UTC+1
+    date: September 26-30, 2022
+    place: Copenhagen, Denmark
+  - year: 2024
+    id: esorics24
+    link: https://esorics2024.org/
+    timeline:
+    - deadline: '2024-01-08 23:59:59'
+      comment: First Submission deadline
+    - deadline: '2024-04-19 23:59:59'
+      comment: Second Submission deadline
+    timezone: AoE
+    date: September 16-20, 2024
+    place: Bydgoszcz, Poland
+  - year: 2025
+    id: esorics25
+    link: https://esorics2025.sciencesconf.org/
+    timeline:
+    - deadline: '2025-01-10 23:59:59'
+      comment: First Submission deadline
+    - deadline: '2025-04-22 23:59:59'
+      comment: Second Submission deadline
+    timezone: AoE
+    date: September 22-26, 2025
+    place: Toulouse, France
 - title: CCS
   description: ACM Conference on Computer and Communications Security
   sub: SC
@@ -1229,6 +740,125 @@
     timezone: UTC-12
     date: October 13-17, 2025
     place: TICC, Taipei, Taiwan
+- title: NDSS
+  description: Network and Distributed System Security (NDSS) Symposium
+  sub: SC
+  rank: A
+  dblp: ndss
+  confs:
+  - year: 2022
+    id: ndss22
+    link: https://www.ndss-symposium.org/ndss2022/
+    timeline:
+    - deadline: '2021-05-21 23:59:59'
+      comment: spring
+    - deadline: '2021-07-23 23:59:59'
+      comment: fall
+    timezone: UTC-12
+    date: February 27 - March 3, 2022
+    place: San Diego, California
+  - year: 2023
+    id: ndss23
+    link: https://www.ndss-symposium.org/ndss2023/
+    timeline:
+    - deadline: '2022-05-13 23:59:59'
+      comment: Summer
+    - deadline: '2022-07-29 23:59:59'
+      comment: Fall
+    timezone: UTC-12
+    date: TBD
+    place: San Diego, California
+  - year: 2024
+    id: ndss24
+    link: https://www.ndss-symposium.org/ndss2024/
+    timeline:
+    - deadline: '2023-04-19 23:59:59'
+      comment: Summer
+    - deadline: '2023-06-28 23:59:59'
+      comment: Fall
+    timezone: UTC-12
+    date: February 26 - March 1, 2024
+    place: San Diego, California
+  - year: 2025
+    id: ndss25
+    link: https://www.ndss-symposium.org/ndss2025/
+    timeline:
+    - deadline: '2024-04-17 23:59:59'
+      comment: Summer
+    - deadline: '2024-07-10 23:59:59'
+      comment: Fall
+    timezone: UTC-12
+    date: February 23 - February 28, 2025
+    place: San Diego, California
+- title: ACSAC
+  description: Annual Computer Security Applications Conference
+  sub: SC
+  rank: B
+  dblp: acsac
+  confs:
+  - year: 2021
+    id: acsac21
+    link: https://www.acsac.org/
+    timeline:
+    - deadline: '2021-09-14 23:59:59'
+    timezone: UTC-12
+    date: December 6-10, 2021
+    place: Online
+  - year: 2023
+    id: acsac23
+    link: https://www.acsac.org/
+    timeline:
+    - deadline: '2023-05-26 23:59:59'
+    timezone: UTC-12
+    date: December 4-8, 2023
+    place: Austin, Texas, USA
+  - year: 2024
+    id: acsac24
+    link: https://www.acsac.org/
+    timeline:
+    - deadline: '2024-05-28 23:59:59'
+    timezone: UTC-12
+    date: December 9-13, 2024
+    place: Waikiki, Hawaii, USA
+- title: AsiaCCS
+  description: Asia Conference on Computer and Communications Security
+  sub: SC
+  rank: B
+  dblp: ccs
+  confs:
+  - year: 2022
+    id: asiaccs22
+    link: https://asiaccs2022.conferenceservice.jp/
+    timeline:
+    - deadline: '2021-07-30 23:59:59'
+      comment: 1st round Deadline
+    - deadline: '2021-11-19 23:59:59'
+      comment: 2nd round Deadline
+    timezone: AoE
+    date: May 30-June 3, 2022
+    place: Nagasaki, Japan
+  - year: 2024
+    id: asiaccs24
+    link: https://asiaccs2024.sutd.edu.sg/
+    timeline:
+    - deadline: '2023-08-21 23:59:59'
+      comment: 1st round Deadline
+    - deadline: '2023-12-07 23:59:59'
+      comment: 2nd round Deadline
+    timezone: AoE
+    date: July 1-5, 2024
+    place: Singapore
+  - year: 2025
+    id: asiaccs25
+    link: https://asiaccs2025.hust.edu.vn/
+    timeline:
+    - deadline: '2024-09-20 23:59:59'
+      comment: 1st round Deadline
+    - deadline: '2025-01-20 23:59:59'
+      comment: 2nd round Deadline
+    timezone: AoE
+    date: August 25-29, 2025
+    place: Hanoi, Vietnam
 - title: ICML
   description: International Conference on Machine Learning
   sub: AI
@@ -1274,129 +904,6 @@
     timezone: UTC-12
     date: July 11-19, 2025
     place: Vancouver Convention Center, Vancouver, Canada
-- title: AAAI
-  description: AAAI Conference on Artificial Intelligence
-  sub: AI
-  rank: B
-  dblp: aaai
-  confs:
-  - year: 2022
-    id: aaai22
-    link: https://aaai.org/Conferences/AAAI-22/
-    timeline:
-    - abstract_deadline: '2021-08-30 23:59:59'
-      deadline: '2021-09-08 23:59:59'
-    timezone: UTC-12
-    date: February 22 - March 1, 2022
-    place: Vancouver, British Columbia, Canada
-  - year: 2023
-    id: aaai23
-    link: https://www.aaai.org/Conferences/AAAI-23/
-    timeline:
-    - abstract_deadline: '2022-08-08 23:59:59'
-      deadline: '2022-08-15 23:59:59'
-    timezone: UTC-12
-    date: February 7 - February 14, 2023
-    place: Washington, DC, USA
-  - year: 2024
-    id: aaai24
-    link: https://www.aaai.org/aaai-conference/
-    timeline:
-    - abstract_deadline: '2023-08-08 23:59:59'
-      deadline: '2023-08-15 23:59:59'
-    timezone: UTC-12
-    date: February 20 - February 27, 2024
-    place: Vancouver, British Columbia, Canada
-  - year: 2025
-    id: aaai25
-    link: https://aaai.org/conference/aaai/aaai-25/
-    timeline:
-    - abstract_deadline: '2024-08-07 23:59:59'
-      deadline: '2024-08-15 23:59:59'
-    timezone: UTC-12
-    date: February 25 - March 4, 2025
-    place: PHILADELPHIA, PENNSYLVANIA, USA
-- title: CVPR
-  description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
-  sub: AI
-  rank: A
-  dblp: cvpr
-  confs:
-  - year: 2022
-    id: cvpr22
-    link: http://cvpr2022.thecvf.com/
-    timeline:
-    - abstract_deadline: '2021-11-09 23:59:00'
-      deadline: '2021-11-16 23:59:00'
-    timezone: UTC-8
-    date: June 19 - June 24, 2022
-    place: New Orleans, Louisiana
-  - year: 2023
-    id: cvpr23
-    link: http://cvpr2023.thecvf.com/
-    timeline:
-    - deadline: '2022-11-11 23:59:59'
-    timezone: UTC-8
-    date: June 17-23, 2023
-    place: Vancouver, Canada
-  - year: 2024
-    id: cvpr24
-    link: https://cvpr.thecvf.com/Conferences/2024
-    timeline:
-    - deadline: '2023-11-17 23:59:59'
-    timezone: UTC-8
-    date: June 17-21, 2024
-    place: Seattle, USA
-  - year: 2025
-    id: cvpr25
-    link: https://cvpr.thecvf.com/Conferences/2025/CallForPapers
-    timeline:
-    - abstract_deadline: '2024-11-07 23:59:00'
-      deadline: '2024-11-14 23:59:00'
-    timezone: UTC-8
-    date: June 10-17, 2025
-    place: Nashville, Tennessee, USA
-- title: NeurIPS
-  description: Conference on Neural Information Processing Systems
-  sub: AI
-  rank: A
-  dblp: nips
-  confs:
-  - year: 2021
-    id: nips21
-    link: https://neurips.cc/Conferences/2021/
-    timeline:
-    - abstract_deadline: '2021-05-21 20:00:00'
-      deadline: '2021-05-28 20:00:00'
-    timezone: UTC+0
-    date: December 5-14, 2021
-    place: Virtual
-  - year: 2022
-    id: nips22
-    link: https://neurips.cc/Conferences/2022
-    timeline:
-    - abstract_deadline: '2022-05-16 20:00:00'
-      deadline: '2022-05-19 20:00:00'
-    timezone: UTC+0
-    date: November 28-December 9, 2022
-    place: New Orleans, Louisiana, USA
-  - year: 2023
-    id: nips23
-    link: https://neurips.cc/Conferences/2023
-    timeline:
-    - abstract_deadline: '2023-05-11 20:00:00'
-      deadline: '2023-05-17 20:00:00'
-    timezone: UTC+0
-    date: November 28-December 9, 2023
-    place: New Orleans, Louisiana, USA
-  - year: 2024
-    id: nips24
-    link: https://neurips.cc/Conferences/2024
-    timeline:
-    - deadline: '2024-05-22 20:00:00'
-    timezone: UTC+0
-    date: December 9-December 15, 2024
-    place: Vancouver, Canada
 - title: ICLR
   description: International Conference on Learning Representations
   sub: AI
@@ -1442,3 +949,507 @@
     timezone: UTC-12
     date: April 24-28, 2025
     place: Singapore
+- title: AAAI
+  description: AAAI Conference on Artificial Intelligence
+  sub: AI
+  rank: B
+  dblp: aaai
+  confs:
+  - year: 2022
+    id: aaai22
+    link: https://aaai.org/Conferences/AAAI-22/
+    timeline:
+    - abstract_deadline: '2021-08-30 23:59:59'
+      deadline: '2021-09-08 23:59:59'
+    timezone: UTC-12
+    date: February 22 - March 1, 2022
+    place: Vancouver, British Columbia, Canada
+  - year: 2023
+    id: aaai23
+    link: https://www.aaai.org/Conferences/AAAI-23/
+    timeline:
+    - abstract_deadline: '2022-08-08 23:59:59'
+      deadline: '2022-08-15 23:59:59'
+    timezone: UTC-12
+    date: February 7 - February 14, 2023
+    place: Washington, DC, USA
+  - year: 2024
+    id: aaai24
+    link: https://www.aaai.org/aaai-conference/
+    timeline:
+    - abstract_deadline: '2023-08-08 23:59:59'
+      deadline: '2023-08-15 23:59:59'
+    timezone: UTC-12
+    date: February 20 - February 27, 2024
+    place: Vancouver, British Columbia, Canada
+  - year: 2025
+    id: aaai25
+    link: https://aaai.org/conference/aaai/aaai-25/
+    timeline:
+    - abstract_deadline: '2024-08-07 23:59:59'
+      deadline: '2024-08-15 23:59:59'
+    timezone: UTC-12
+    date: February 25 - March 4, 2025
+    place: PHILADELPHIA, PENNSYLVANIA, USA
+- title: NeurIPS
+  description: Conference on Neural Information Processing Systems
+  sub: AI
+  rank: A
+  dblp: nips
+  confs:
+  - year: 2021
+    id: nips21
+    link: https://neurips.cc/Conferences/2021/
+    timeline:
+    - abstract_deadline: '2021-05-21 20:00:00'
+      deadline: '2021-05-28 20:00:00'
+    timezone: UTC+0
+    date: December 5-14, 2021
+    place: Virtual
+  - year: 2022
+    id: nips22
+    link: https://neurips.cc/Conferences/2022
+    timeline:
+    - abstract_deadline: '2022-05-16 20:00:00'
+      deadline: '2022-05-19 20:00:00'
+    timezone: UTC+0
+    date: November 28-December 9, 2022
+    place: New Orleans, Louisiana, USA
+  - year: 2023
+    id: nips23
+    link: https://neurips.cc/Conferences/2023
+    timeline:
+    - abstract_deadline: '2023-05-11 20:00:00'
+      deadline: '2023-05-17 20:00:00'
+    timezone: UTC+0
+    date: November 28-December 9, 2023
+    place: New Orleans, Louisiana, USA
+  - year: 2024
+    id: nips24
+    link: https://neurips.cc/Conferences/2024
+    timeline:
+    - deadline: '2024-05-22 20:00:00'
+    timezone: UTC+0
+    date: December 9-December 15, 2024
+    place: Vancouver, Canada
+- title: CVPR
+  description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  sub: AI
+  rank: A
+  dblp: cvpr
+  confs:
+  - year: 2022
+    id: cvpr22
+    link: http://cvpr2022.thecvf.com/
+    timeline:
+    - abstract_deadline: '2021-11-09 23:59:00'
+      deadline: '2021-11-16 23:59:00'
+    timezone: UTC-8
+    date: June 19 - June 24, 2022
+    place: New Orleans, Louisiana
+  - year: 2023
+    id: cvpr23
+    link: http://cvpr2023.thecvf.com/
+    timeline:
+    - deadline: '2022-11-11 23:59:59'
+    timezone: UTC-8
+    date: June 17-23, 2023
+    place: Vancouver, Canada
+  - year: 2024
+    id: cvpr24
+    link: https://cvpr.thecvf.com/Conferences/2024
+    timeline:
+    - deadline: '2023-11-17 23:59:59'
+    timezone: UTC-8
+    date: June 17-21, 2024
+    place: Seattle, USA
+  - year: 2025
+    id: cvpr25
+    link: https://cvpr.thecvf.com/Conferences/2025/CallForPapers
+    timeline:
+    - abstract_deadline: '2024-11-07 23:59:00'
+      deadline: '2024-11-14 23:59:00'
+    timezone: UTC-8
+    date: June 10-17, 2025
+    place: Nashville, Tennessee, USA
+- title: ICNP
+  description: IEEE International Conference on Network Protocols
+  sub: NW
+  rank: B
+  dblp: icnp
+  confs:
+  - year: 2022
+    id: icnp22
+    link: https://icnp22.cs.ucr.edu/index.html
+    timeline:
+    - abstract_deadline: '2022-05-19 20:00:00'
+      deadline: '2022-05-26 20:00:00'
+    timezone: UTC-4
+    date: October 30-November 2, 2022
+    place: Lexington, Kentucky, USA
+  - year: 2023
+    id: icnp23
+    link: https://icnp23.cs.ucr.edu/index.html
+    timeline:
+    - abstract_deadline: '2023-05-24 20:00:00'
+      deadline: '2023-05-31 20:00:00'
+    timezone: UTC-4
+    date: October 10-13, 2023
+    place: Reykjavik, Iceland
+  - year: 2024
+    id: icnp24
+    link: https://icnp24.cs.ucr.edu/index.html
+    timeline:
+    - abstract_deadline: '2024-05-17 23:59:59'
+      deadline: '2024-05-24 23:59:59'
+    timezone: AoE
+    date: October 28-31, 2024
+    place: Charleroi, Belgium
+  - year: 2025
+    id: icnp25
+    link: https://ieeeicnp2025.pages.dev/
+    timeline:
+    - abstract_deadline: '2025-05-09 23:59:59'
+      deadline: '2025-05-16 23:59:59'
+    timezone: AoE
+    date: September 22-25, 2025
+    place: Seoul, South Korea
+- title: MobiCom
+  description: ACM Annual International Conference On Mobile Computing And Networking
+  sub: NW
+  rank: A
+  dblp: mobicom
+  confs:
+  - year: 2022
+    id: mobicom22
+    link: https://www.sigmobile.org/mobicom/2022/
+    timeline:
+    - abstract_deadline: '2021-08-13 23:59:59'
+      deadline: '2021-08-20 23:59:59'
+    - abstract_deadline: '2022-03-18 23:59:59'
+      deadline: '2022-03-25 23:59:59'
+    timezone: UTC-7
+    date: TBD
+    place: TBD
+  - year: 2023
+    id: mobicom23
+    link: https://www.sigmobile.org/mobicom/2023/
+    timeline:
+    - abstract_deadline: '2023-03-10 23:59:59'
+      deadline: '2023-03-17 23:59:59'
+    timezone: UTC-7
+    date: Oct 2-6, 2023
+    place: Madrid, Spain
+  - year: 2024
+    id: mobicom24
+    link: https://www.sigmobile.org/mobicom/2024/
+    timeline:
+    - abstract_deadline: '2023-08-18 23:59:59'
+      deadline: '2023-08-25 23:59:59'
+    timezone: UTC-12
+    date: October, 2024
+    place: Washington, D.C., USA
+  - year: 2025
+    id: mobicom25
+    link: https://sigmobile.org/mobicom/2025/
+    timeline:
+    - abstract_deadline: '2024-08-29 23:59:59'
+      deadline: '2024-09-05 23:59:59'
+      comment: Summer Deadlines
+    - abstract_deadline: '2025-03-11 23:59:59'
+      deadline: '2025-03-18 23:59:59'
+      comment: Winter Deadlines
+    timezone: UTC-12
+    date: November, 2025
+    place: Hong Kong, China
+- title: IPSN
+  description: ACM/IEEE International Conference on Information Processing in Sensor
+    Networks
+  sub: NW
+  rank: B
+  dblp: ipsn
+  confs:
+  - year: 2022
+    id: ipsn22
+    link: https://ipsn.acm.org/2022/
+    timeline:
+    - abstract_deadline: '2021-10-22 23:59:59'
+      deadline: '2021-10-29 23:59:59'
+    timezone: UTC-12
+    date: May 4-6, 2022
+    place: Milan, Italy
+- title: CoNEXT
+  description: ACM International Conference on Emerging Networking Experiments and
+    Technologies
+  sub: NW
+  rank: B
+  dblp: conext
+  confs:
+  - year: 2024
+    id: conext24
+    link: https://conferences.sigcomm.org/co-next/2024/#!/home
+    timeline:
+    - abstract_deadline: '2023-11-27 23:59:59'
+      deadline: '2023-12-04 23:59:59'
+    - abstract_deadline: '2024-06-20 23:59:59'
+      deadline: '2024-06-27 23:59:59'
+    timezone: AoE
+    date: TBD
+    place: TBD
+  - year: 2025
+    id: conext25
+    link: https://conferences.sigcomm.org/co-next/2025/#!/home
+    timeline:
+    - abstract_deadline: '2024-11-28 23:59:59'
+      deadline: '2024-12-05 23:59:59'
+      comment: Winter submission
+    - abstract_deadline: TBD
+      deadline: TBD
+      comment: Summer submission
+    timezone: AoE
+    date: Dec 1-4, 2025
+    place: HKUST, Hong Kong
+- title: NSDI
+  description: USENIX Symposium on Networked Systems Design and Implementation
+  sub: NW
+  rank: A
+  dblp: nsdi
+  confs:
+  - year: 2022
+    id: nsdi22
+    link: https://www.usenix.org/conference/nsdi22/
+    timeline:
+    - abstract_deadline: '2021-03-04 20:59:59'
+      deadline: '2021-03-10 20:59:59'
+    - abstract_deadline: '2021-09-09 20:59:59'
+      deadline: '2021-09-15 20:59:59'
+    timezone: UTC-8
+    date: April 4-6, 2022
+    place: RENTON, USA
+  - year: 2023
+    id: nsdi23
+    link: https://www.usenix.org/conference/nsdi23/
+    timeline:
+    - abstract_deadline: '2022-04-13 23:59:59'
+      deadline: '2022-04-20 23:59:59'
+    - abstract_deadline: '2022-09-13 23:59:59'
+      deadline: '2022-09-20 23:59:59'
+    timezone: UTC-5
+    date: April 17-19, 2023
+    place: BOSTON, USA
+  - year: 2024
+    id: nsdi24
+    link: https://www.usenix.org/conference/nsdi24/
+    timeline:
+    - abstract_deadline: '2023-04-27 20:59:59'
+      deadline: '2023-05-04 20:59:59'
+    - abstract_deadline: '2023-09-14 20:59:59'
+      deadline: '2023-09-21 20:59:59'
+    timezone: UTC-7
+    date: April 16-18, 2024
+    place: Santa Clara, CA, USA
+  - year: 2025
+    id: nsdi25
+    link: https://www.usenix.org/conference/nsdi25
+    timeline:
+    - abstract_deadline: '2024-04-30 23:59:59'
+      deadline: '2024-05-07 23:59:59'
+    - abstract_deadline: '2024-09-12 23:59:59'
+      deadline: '2024-09-19 23:59:59'
+    timezone: UTC-4
+    date: April 28-30, 2025
+    place: Philadelphia, PA, USA
+- title: SIGCOMM
+  description: ACM International Conference on Applications, Technologies, Architectures,
+    and Protocols for Computer Communication
+  sub: NW
+  rank: A
+  dblp: sigcomm
+  confs:
+  - year: 2021
+    id: sigcomm21
+    link: http://conferences.sigcomm.org/sigcomm/2021/
+    timeline:
+    - abstract_deadline: '2021-01-20 16:59:59'
+      deadline: '2021-01-27 16:59:59'
+    timezone: UTC-5
+    date: August 23-27, 2021
+    place: Virtual
+  - year: 2022
+    id: sigcomm22
+    link: https://conferences.sigcomm.org/sigcomm/2022/
+    timeline:
+    - abstract_deadline: '2022-01-26 23:59:59'
+      deadline: '2022-02-02 23:59:59'
+    timezone: UTC
+    date: August 22-26, 2022
+    place: Amsterdam, Netherlands
+  - year: 2023
+    id: sigcomm23
+    link: https://conferences.sigcomm.org/sigcomm/2023/
+    timeline:
+    - abstract_deadline: '2023-02-08 23:59:59'
+      deadline: '2023-02-15 23:59:59'
+    timezone: UTC
+    date: September 10-14, 2023
+    place: New York City, US
+  - year: 2024
+    id: sigcomm24
+    link: https://conferences.sigcomm.org/sigcomm/2024/
+    timeline:
+    - abstract_deadline: '2024-01-26 23:59:59'
+      deadline: '2024-02-02 23:59:59'
+    timezone: UTC
+    date: August 4 - 8, 2024
+    place: Sydney, Australia
+  - year: 2025
+    id: sigcomm25
+    link: https://conferences.sigcomm.org/sigcomm/2025/
+    timeline:
+    - abstract_deadline: '2025-01-24 23:59:59'
+      deadline: '2025-01-31 23:59:59'
+    timezone: UTC
+    date: September 8-11, 2025
+    place: Coimbra, Portugal
+- title: IWQoS
+  description: IEEE/ACM International Symposium on Quality of Service
+  sub: NW
+  rank: C
+  dblp: iwqos
+  confs:
+  - year: 2022
+    id: iwqos22
+    link: https://iwqos2022.ieee-iwqos.org/
+    timeline:
+    - abstract_deadline: '2022-02-01 23:59:59'
+      deadline: '2022-02-07 23:59:59'
+    timezone: UTC-12
+    date: June 10-12, 2022
+    place: Virtual
+  - year: 2023
+    id: iwqos23
+    link: https://iwqos2023.ieee-iwqos.org/
+    timeline:
+    - abstract_deadline: '2023-01-29 23:59:59'
+      deadline: '2023-02-07 23:59:59'
+    timezone: UTC-12
+    date: June 19-21, 2023
+    place: Orlando, FL, USA
+  - year: 2025
+    id: iwqos25
+    link: https://iwqos2025.ieee-iwqos.org/
+    timeline:
+    - abstract_deadline: '2025-02-09 23:59:59'
+      deadline: '2025-02-16 23:59:59'
+    timezone: AoE
+    date: July 02-04, 2025
+    place: Gold Coast, Australia
+- title: MobiSys
+  description: ACM International Conference on Mobile Systems, Applications, and Services
+  sub: NW
+  rank: A
+  dblp: mobisys
+  confs:
+  - year: 2022
+    id: mobisys22
+    link: https://www.sigmobile.org/mobisys/2022/
+    timeline:
+    - abstract_deadline: '2021-12-13 23:59:59'
+      deadline: '2021-12-20 23:59:59'
+    timezone: UTC-12
+    date: TBD
+    place: TBD
+- title: INFOCOM
+  description: IEEE International Conference on Computer Communications
+  sub: NW
+  rank: B
+  dblp: infocom
+  confs:
+  - year: 2021
+    id: infocom21
+    link: https://infocom2021.ieee-infocom.org/
+    timeline:
+    - abstract_deadline: '2020-08-08 23:59:59'
+      deadline: '2020-08-15 23:59:59'
+    timezone: UTC-4
+    date: May 10-13, 2021
+    place: Virtual
+  - year: 2022
+    id: infocom22
+    link: https://infocom2022.ieee-infocom.org/
+    timeline:
+    - abstract_deadline: '2021-07-24 23:59:59'
+      deadline: '2021-07-31 23:59:59'
+    timezone: UTC-4
+    date: May 2-5, 2022
+    place: Virtual
+  - year: 2023
+    id: infocom23
+    link: https://infocom2023.ieee-infocom.org/
+    timeline:
+    - abstract_deadline: '2022-07-25 23:59:59'
+      deadline: '2022-08-01 23:59:59'
+    timezone: UTC-4
+    date: May 17-20, 2023
+    place: New York, USA
+  - year: 2024
+    id: infocom24
+    link: https://infocom2024.ieee-infocom.org/
+    timeline:
+    - abstract_deadline: '2023-07-24 23:59:59'
+      deadline: '2023-07-31 23:59:59'
+    timezone: AoE
+    date: May 20-23, 2024
+    place: Vancouver, Canada
+  - year: 2025
+    id: infocom25
+    link: https://infocom2025.ieee-infocom.org/
+    timeline:
+    - abstract_deadline: '2024-07-24 23:59:59'
+      deadline: '2024-07-31 23:59:59'
+    timezone: UTC-7
+    date: May 19-22, 2025
+    place: London, United Kindom
+- title: MobiHoc
+  description: International Symposium on Mobile Ad Hoc Networking and Computing
+  sub: NW
+  rank: B
+  dblp: mobihoc
+  confs:
+  - year: 2022
+    id: mobihoc22
+    link: https://www.sigmobile.org/mobihoc/2022/
+    timeline:
+    - abstract_deadline: '2022-02-25 23:59:59'
+      deadline: '2022-03-04 23:59:59'
+    timezone: UTC-12
+    date: October 17-22, 2022
+    place: Seoul, South Korea
+- title: IMC
+  description: ACM Internet Measurement Conference
+  sub: NW
+  rank: B
+  dblp: imc
+  confs:
+  - year: 2024
+    id: imc24
+    link: https://conferences.sigcomm.org/imc/2024/
+    timeline:
+    - abstract_deadline: '2024-05-08 23:59:59'
+      deadline: '2024-05-15 23:59:59'
+    timezone: AoE
+    date: Nov 4-6, 2024
+    place: Madrid, Spain
+  - year: 2025
+    id: imc25
+    link: https://conferences.sigcomm.org/imc/2025/
+    timeline:
+    - abstract_deadline: '2024-11-14 23:59:59'
+      deadline: '2024-11-21 23:59:59'
+      comment: Fall deadline
+    - abstract_deadline: '2025-05-08 23:59:59'
+      deadline: '2025-05-15 23:59:59'
+      comment: Spring deadline
+    timezone: AoE
+    date: Oct 28-31, 2025
+    place: Madison, Wisconsin, USA
