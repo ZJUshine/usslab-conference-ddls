@@ -310,6 +310,17 @@
     timezone: AoE
     date: May 27 - 30, 2024
     place: Seoul, Korea
+  - year: 2025
+    id: wisec25
+    link: https://wisec2025.gmu.edu/
+    timeline:
+    - deadline: '2024-11-21 23:59:59'
+      comment: First Cycle deadline
+    - deadline: '2025-03-12 23:59:59'
+      comment: Second Cycle deadline
+    timezone: AoE
+    date: June 30 - July 3, 2025
+    place: Arlington, Virginia, USA
 - title: PETS
   description: Privacy Enhancing Technologies Symposium
   sub: SC
@@ -1339,8 +1350,8 @@
     id: iwqos25
     link: https://iwqos2025.ieee-iwqos.org/
     timeline:
-    - abstract_deadline: '2025-02-09 23:59:59'
-      deadline: '2025-02-16 23:59:59'
+    - abstract_deadline: '2025-02-16 23:59:59'
+      deadline: '2025-02-23 23:59:59'
     timezone: AoE
     date: July 02-04, 2025
     place: Gold Coast, Australia
