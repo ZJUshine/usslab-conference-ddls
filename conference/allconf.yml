@@ -822,6 +822,21 @@
     timezone: AoE
     date: July 14-19, 2025
     place: Washington, DC and Online
+  - year: 2026
+    id: pets26
+    link: https://petsymposium.org/cfp26.php
+    timeline:
+    - deadline: '2025-05-31 23:59:59'
+      comment: Issue 1 Paper Submission Deadline
+    - deadline: '2025-08-31 23:59:59'
+      comment: Issue 2 Paper Submission Deadline
+    - deadline: '2025-11-30 23:59:59'
+      comment: Issue 3 Paper Submission Deadline
+    - deadline: '2026-02-28 23:59:59'
+      comment: Issue 4 Paper Submission Deadline
+    timezone: AoE
+    date: July, 2026
+    place: Location TBD
 - title: CHI
   description: ACM Conference on Human Factors in Computing Systems
   sub: HI
@@ -1280,6 +1295,16 @@
     timezone: UTC-12
     date: November, 2025
     place: Hong Kong, China
+  - year: 2026
+    id: mobicom26
+    link: https://sigmobile.org/mobicom/2026/
+    timeline:
+    - abstract_deadline: '2025-08-27 23:59:59'
+      deadline: '2025-09-03 23:59:59'
+      comment: Summer Deadlines
+    timezone: AoE
+    date: November, 2026
+    place: Austin, Texas, USA
 - title: MobiSys
   description: ACM International Conference on Mobile Systems, Applications, and Services
   sub: NW
