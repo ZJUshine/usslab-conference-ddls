@@ -301,6 +301,17 @@
     timezone: AoE
     date: June 23-26, 2025
     place: Munich, Germany
+  - year: 2026
+    id: acns26
+    link: https://acns2026.github.io/index.html
+    timeline:
+    - deadline: '2025-09-26 23:59:59'
+      comment: Cycle 1 Submission deadline
+    - deadline: '2026-01-23 23:59:59'
+      comment: Cycle 2 Submission deadline
+    timezone: AoE
+    date: June 22-25, 2026
+    place: New York, United States
 - title: TrustCom
   description: IEEE International Conference on Trust, Security and Privacy in Computing
     and Communications
@@ -648,6 +659,14 @@
     timezone: UTC-12
     date: June 30-July 4, 2025
     place: Venice, Italy
+  - year: 2026
+    id: eurosp26
+    link: https://eurosp2026.ieee-security.org/
+    timeline:
+    - deadline: '2025-11-20 23:59:59'
+    timezone: UTC-12
+    date: July 6 - 10, 2026
+    place: Lisbon, Portugal
 - title: CCS
   description: ACM Conference on Computer and Communications Security
   sub: SC
