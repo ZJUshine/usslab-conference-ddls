@@ -543,6 +543,15 @@
     timezone: UTC-8
     date: June 10-17, 2025
     place: Nashville, Tennessee, USA
+  - year: 2026
+    id: cvpr26
+    link: https://cvpr.thecvf.com/Conferences/2026
+    timeline:
+    - abstract_deadline: '2025-11-07 23:59:00'
+      deadline: '2025-11-14 23:59:00'
+    timezone: UTC+0
+    date: June 2-6, 2026
+    place: Denver, Colorado, United States
 - title: ICLR
   description: International Conference on Learning Representations
   sub: AI
@@ -1177,7 +1186,7 @@
       comment: Issue 4 Paper Submission Deadline
     timezone: AoE
     date: July, 2026
-    place: Location TBD
+    place: Calgary, Canada
 - title: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
   sub: SC
