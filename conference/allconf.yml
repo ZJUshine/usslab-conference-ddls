@@ -196,6 +196,15 @@
     timezone: UTC-12
     date: July 11-19, 2025
     place: Vancouver Convention Center, Vancouver, Canada
+  - year: 2026
+    id: icml26
+    link: https://icml.cc/Conferences/2026
+    timeline:
+    - abstract_deadline: TBD
+      deadline: TBD
+    timezone: UTC-12
+    date: July 6-12, 2026
+    place: Seoul, Korea
 - title: AAAI
   description: AAAI Conference on Artificial Intelligence
   sub: AI
@@ -1105,6 +1114,17 @@
     timezone: AoE
     date: June 30 - July 3, 2025
     place: Arlington, Virginia, USA
+  - year: 2026
+    id: wisec26
+    link: https://wisec26.events.cispa.de/
+    timeline:
+    - deadline: '2025-11-18 23:59:59'
+      comment: First Cycle deadline
+    - deadline: '2026-03-03 23:59:59'
+      comment: Second Cycle deadline
+    timezone: AoE
+    date: June 30 - July 3, 2026
+    place: "Saarbr\xFCcken, Germany"
 - title: CoNEXT
   description: International Conference on Emerging Networking Experiments and Technologies
   sub: NW
