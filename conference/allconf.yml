@@ -612,6 +612,14 @@
     timezone: UTC+8
     date: November 14 - 17, 2025
     place: Guiyang, China
+  - year: 2026
+    id: trustcom26
+    link: https://collaboratecom.eai-conferences.org/2026/
+    timeline:
+    - deadline: '2026-05-01 23:59:59'
+    timezone: UTC+8
+    date: November 14 - 15, 2026
+    place: Hong Kong SAR, China
 - title: RAID
   description: International Symposium on Recent Advances in Intrusion Detection
   sub: SC
@@ -1582,6 +1590,15 @@
     timezone: UTC
     date: September 8-11, 2025
     place: Coimbra, Portugal
+  - year: 2026
+    id: sigcomm26
+    link: https://conferences.sigcomm.org/sigcomm/2026/
+    timeline:
+    - abstract_deadline: '2026-01-30 23:59:59'
+      deadline: '2026-02-06 23:59:59'
+    timezone: AoE
+    date: TBD
+    place: Denver, Colorado, USA
 - title: CSCW
   description: ACM Conference on Computer Supported Cooperative Work and Social Computing
   sub: HI
