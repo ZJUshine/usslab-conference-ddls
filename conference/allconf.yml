@@ -1359,6 +1359,9 @@
     - abstract_deadline: '2025-08-27 23:59:59'
       deadline: '2025-09-03 23:59:59'
       comment: Summer Deadlines
+    - abstract_deadline: '2026-03-06 23:59:59'
+      deadline: '2026-03-13 23:59:59'
+      comment: Winter Deadlines
     timezone: AoE
     date: November, 2026
     place: Austin, Texas, USA
@@ -1538,6 +1541,15 @@
     timezone: AoE
     date: July 02-04, 2025
     place: Gold Coast, Australia
+  - year: 2026
+    id: iwqos26
+    link: https://iwqos2026.ieee-iwqos.org/
+    timeline:
+    - abstract_deadline: '2026-02-02 23:59:59'
+      deadline: '2026-02-09 23:59:59'
+    timezone: AoE
+    date: 29 June - 2 July, 2026
+    place: Dubai, United Arab Emirates
 - title: SIGCOMM
   description: ACM International Conference on Applications, Technologies, Architectures,
     and Protocols for Computer Communication
