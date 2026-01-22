@@ -879,6 +879,17 @@
     timezone: AoE
     date: August 10-12, 2025
     place: Seattle, WA, USA
+  - year: 2026
+    id: soups26
+    link: https://soups.page/
+    timeline:
+    - deadline: '2026-02-12 23:59:59'
+      comment: Mandatory Paper Registration Deadline
+    - deadline: '2026-02-19 23:59:59'
+      comment: Paper Submission Deadline
+    timezone: AoE
+    date: August 23-26, 2026
+    place: Hannover, Germany
 - title: ESORICS
   description: European Symposium on Research in Computer Security
   sub: SC
@@ -1448,6 +1459,15 @@
     timezone: AoE
     date: September 22-25, 2025
     place: Seoul, South Korea
+  - year: 2026
+    id: icnp26
+    link: https://icnp26.cs.ucr.edu/
+    timeline:
+    - abstract_deadline: '2026-05-15 23:59:59'
+      deadline: '2026-05-22 23:59:59'
+    timezone: AoE
+    date: October 5-8, 2026
+    place: Tempe, Arizona, USA
 - title: INFOCOM
   description: IEEE International Conference on Computer Communications
   sub: NW
@@ -1708,6 +1728,21 @@
   rank: A
   dblp: huc
   confs:
+  - year: 2026
+    id: ubicomp26
+    link: https://www.ubicomp.org/ubicomp-iswc-2026
+    timeline:
+    - deadline: '2026-02-01 23:59:59'
+      comment: first round
+    - deadline: '2026-05-01 23:59:59'
+      comment: second round
+    - deadline: '2026-08-01 23:59:59'
+      comment: third round (only for resubmissions after major revisions)
+    - deadline: '2026-11-01 23:59:59'
+      comment: fourth round
+    timezone: AoE
+    date: October 11-15, 2026
+    place: Shanghai, China
   - year: 2025
     id: ubicomp25
     link: https://www.ubicomp.org/ubicomp-iswc-2025
