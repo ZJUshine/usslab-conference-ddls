@@ -64,7 +64,7 @@
     link: https://www.usenix.org/conference/nsdi27
     timeline:
     - abstract_deadline: '2026-04-16 23:59:59'
-      deadline: '2026-04-16 23:59:59'
+      deadline: '2026-04-23 23:59:59'
     - abstract_deadline: '2026-09-10 23:59:59'
       deadline: '2026-09-17 23:59:59'
     timezone: UTC-4
@@ -886,6 +886,14 @@
     timezone: AoE
     date: October 19-22, 2025
     place: Gold Coast, Australia
+  - year: 2026
+    id: raid26
+    link: https://raid2026.org
+    timeline:
+    - deadline: '2026-04-16 23:59:59'
+    timezone: AoE
+    date: October 11-14, 2026
+    place: Lancaster, UK
 - title: CCS
   description: ACM Conference on Computer and Communications Security
   sub: SC
@@ -1301,6 +1309,19 @@
     timezone: UTC-12
     date: August 12-14, 2026
     place: Baltimore, MD, USA
+  - year: 2027
+    id: uss27
+    link: https://www.usenix.org/conference/usenixsecurity27
+    timeline:
+    - abstract_deadline: '2026-08-18 23:59:59'
+      deadline: '2026-08-25 23:59:59'
+      comment: Cycle 1 Deadline
+    - abstract_deadline: '2027-01-19 23:59:59'
+      deadline: '2027-01-26 23:59:59'
+      comment: Cycle 2 Deadline
+    timezone: UTC-12
+    date: August 11-13, 2027
+    place: Denver, CO, USA
 - title: TrustCom
   description: IEEE International Conference on Trust, Security and Privacy in Computing
     and Communications
@@ -1325,14 +1346,6 @@
     timezone: UTC+8
     date: November 14 - 17, 2025
     place: Guiyang, China
-  - year: 2026
-    id: trustcom26
-    link: https://collaboratecom.eai-conferences.org/2026/
-    timeline:
-    - deadline: '2026-05-01 23:59:59'
-    timezone: UTC+8
-    date: November 14 - 15, 2026
-    place: Hong Kong SAR, China
 - title: SOUPS
   description: Symposium On Usable Privacy and Security
   sub: SC
