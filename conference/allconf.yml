@@ -585,7 +585,8 @@
     id: nips26
     link: https://neurips.cc/Conferences/2026
     timeline:
-    - deadline: '2026-05-07 11:59:00'
+    - abstract_deadline: '2026-05-05 11:59:00'
+      deadline: '2026-05-07 11:59:00'
     timezone: UTC+0
     date: December 6, 2026
     place: Sydney, Australia
@@ -753,8 +754,8 @@
     id: aaai27
     link: https://aaai.org/conference/aaai/aaai-27/
     timeline:
-    - abstract_deadline: TBD
-      deadline: TBD
+    - abstract_deadline: '2026-07-20 23:59:59'
+      deadline: '2026-07-27 23:59:59'
     timezone: UTC-12
     date: February 16-23, 2027
     place: "Montr\xE9al, Qu\xE9bec, Canada"
@@ -1080,6 +1081,19 @@
     timezone: UTC-12
     date: MAY 18-21, 2026
     place: SAN FRANCISCO, CA
+  - year: 2027
+    id: sp27
+    link: https://sp2027.ieee-security.org/index.html
+    timeline:
+    - abstract_deadline: '2026-06-04 23:59:59'
+      deadline: '2026-06-11 23:59:59'
+      comment: First Paper submission deadline
+    - abstract_deadline: '2026-11-10 23:59:59'
+      deadline: '2026-11-17 23:59:59'
+      comment: Second Paper submission deadline
+    timezone: UTC-12
+    date: TBD
+    place: MONTREAL, CANADA
 - title: NDSS
   description: Network and Distributed System Security (NDSS) Symposium
   sub: SC
@@ -1152,8 +1166,8 @@
     - deadline: '2026-08-19 23:59:59'
       comment: Fall
     timezone: UTC-12
-    date: TBD
-    place: TBD
+    date: March 22 - March 26, 2027
+    place: Seoul, Republic of Korea
 - title: NSPW
   description: New Security Paradigms Workshop
   sub: SC
@@ -1261,6 +1275,21 @@
     timezone: AoE
     date: July 20-25, 2026
     place: Calgary, Canada
+  - year: 2027
+    id: pets27
+    link: https://petsymposium.org/cfp27.php
+    timeline:
+    - deadline: '2026-05-31 23:59:59'
+      comment: Issue 1 Paper Submission Deadline
+    - deadline: '2026-08-31 23:59:59'
+      comment: Issue 2 Paper Submission Deadline
+    - deadline: '2026-11-30 23:59:59'
+      comment: Issue 3 Paper Submission Deadline
+    - deadline: '2027-02-28 23:59:59'
+      comment: Issue 4 Paper Submission Deadline
+    timezone: AoE
+    date: TBD
+    place: TBA (Europe)
 - title: EuroS&P
   description: IEEE European Symposium on Security and Privacy
   sub: SC
@@ -1852,6 +1881,17 @@
     timezone: AoE
     date: June 1-5, 2026
     place: Bangalore, India
+  - year: 2027
+    id: asiaccs27
+    link: https://asiaccs2027.cityu.edu.mo/index.html
+    timeline:
+    - deadline: '2026-08-21 23:59:59'
+      comment: 1st round Deadline
+    - deadline: '2026-12-11 23:59:59'
+      comment: 2nd round Deadline
+    timezone: AoE
+    date: July 12-16, 2027
+    place: Macau, China
 - title: SOUPS
   description: Symposium On Usable Privacy and Security
   sub: SC
